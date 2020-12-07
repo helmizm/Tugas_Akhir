@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TOKO KUE IRMA"
+        android:text="TOKO KUE MALANGKA"
         android:textSize="25sp"
         android:textColor="#FFF"
         android:layout_centerHorizontal="true"

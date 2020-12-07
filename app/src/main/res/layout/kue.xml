@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="-90dp"
-        android:text="TOKO KUE IRMA"
+        android:text="TOKO KUE MALANGKA"
         android:textColor="#FFF"
         android:textSize="18sp"
         android:textStyle="italic" />

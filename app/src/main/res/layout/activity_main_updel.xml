@@ -16,8 +16,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="-30dp"
-        android:text="TOKO KUE IRMA"
+        android:layout_marginTop="-20dp"
+        android:text="TOKO KUE MALANGKA"
         android:textColor="#FFF"
         android:textSize="18sp"
         android:textStyle="normal" />
@@ -26,7 +26,7 @@
         android:layout_height="120dp"
         android:src="@drawable/ic_bolu"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="15dp"
         app:civ_border_width="2dp"
         app:civ_border_color="#FFFF"/>
     <TextView
@@ -34,11 +34,11 @@
         android:layout_height="wrap_content"
         android:textStyle="italic"
         android:textSize="18dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="15dp"
         android:text="Annyeong welcome to Update and Delete" />
     <EditText
         android:id="@+id/updel_nama"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="15dp"
         android:hint="Nama Kue"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
